@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+.hello{
+	text-align:center;
+}
+
+div {
+  background-color: gray;
+  color: white;
+}
+span {
+  color: red;
+  text-decoration: underline;
+}
+.line{
+	text-decoration: underline;
+	text-align:right;
+	color: blue;
+}
+
+.migi{
+	 text-align: right;
+}
+.ao{
+	text-decoration: underline;
+	color: blue;
+}
+.b{
+	color:white;
+	background-color: blue;
+}
+.g{
+	color:white;
+	background-color: green;
+}
+.r{
+	color:white;
+	background-color: red;
+}
+.lg{
+	background-color:lightgrey;
+}
+.re{
+	color:red;
+}
